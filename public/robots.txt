@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arkuksin.github.io/homer-epics/sitemap.xml

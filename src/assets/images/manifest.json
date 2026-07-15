@@ -1,0 +1,163 @@
+{
+  "achilles-hector": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "circe": {
+    "width": 946,
+    "height": 1663,
+    "widths": [
+      480,
+      946
+    ]
+  },
+  "hero-home": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "hero-iliad": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "hero-odyssey": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "journey-map": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "odysseus-polyphemus": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "portrait-achilles": {
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      480,
+      960,
+      1254
+    ]
+  },
+  "portrait-athena": {
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      480,
+      960,
+      1254
+    ]
+  },
+  "portrait-hector": {
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      480,
+      960,
+      1254
+    ]
+  },
+  "portrait-odysseus": {
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      480,
+      960,
+      1254
+    ]
+  },
+  "portrait-penelope": {
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      480,
+      960,
+      1254
+    ]
+  },
+  "portrait-zeus": {
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      480,
+      960,
+      1254
+    ]
+  },
+  "priam-achilles": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "return-ithaca": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "scylla-charybdis": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "sirens": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  },
+  "trojan-horse": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      960,
+      1536
+    ]
+  }
+}

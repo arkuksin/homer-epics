@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Homers Epen – Ilias & Odyssee</title>
+    <meta
+      name="description"
+      content="Eine mehrsprachige, interaktive Entdeckungsreise durch Homers Ilias und Odyssee – Handlung, Figuren, Orte, Themen und Wirkungsgeschichte."
+    />
+    <link rel="icon" type="image/svg+xml" href="/homer-epics/favicon.svg" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Homers Epen – Ilias & Odyssee" />
+    <meta
+      property="og:description"
+      content="Eine mehrsprachige, interaktive Entdeckungsreise durch Homers Ilias und Odyssee."
+    />
+    <meta property="og:image" content="https://arkuksin.github.io/homer-epics/og-image.jpg" />
+    <meta property="og:url" content="https://arkuksin.github.io/homer-epics/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href="https://arkuksin.github.io/homer-epics/" />
+    <meta name="theme-color" content="#0e344c" />
+    <script>
+      // GitHub-Pages-SPA-Fallback: von 404.html gespeicherten Pfad wiederherstellen
+      (function () {
+        var redirect = sessionStorage.getItem('spa-redirect');
+        if (redirect) {
+          sessionStorage.removeItem('spa-redirect');
+          history.replaceState(null, '', redirect);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

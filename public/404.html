@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Homer's Epics – Redirecting…</title>
+    <script>
+      // GitHub-Pages-SPA-Fallback: aktuellen Pfad merken und zur App umleiten.
+      (function () {
+        var base = '/homer-epics/';
+        sessionStorage.setItem(
+          'spa-redirect',
+          location.pathname + location.search + location.hash
+        );
+        location.replace(base);
+      })();
+    </script>
+  </head>
+  <body>
+    <p style="font-family: system-ui, sans-serif; padding: 2rem">Redirecting…</p>
+  </body>
+</html>
